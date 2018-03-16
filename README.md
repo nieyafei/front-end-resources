@@ -1,5 +1,7 @@
 # Font-End-Resources
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
+
 > 前端资源整理收集文档，主要面对一些优秀的blog，技术文档，面试等资料
 
 ## HTML
@@ -13,6 +15,7 @@
 ## JS
 
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
+[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
 ## 面试资料
 
