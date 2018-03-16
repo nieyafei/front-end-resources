@@ -1,5 +1,6 @@
 # Font-End-Resources
-[![Build Status](https://travis-ci.org/nieyafei/front-end-resources.svg?branch=master)](https://travis-ci.org/nieyafei/front-end-resources)    
+
+[![Build Status](https://travis-ci.org/nieyafei/front-end-resources.svg?branch=master)](https://travis-ci.org/nieyafei/front-end-resources)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
 > 前端资源整理收集文档，主要面对一些优秀的blog，技术文档，面试等资料
