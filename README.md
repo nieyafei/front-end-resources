@@ -20,3 +20,13 @@
 ## 资料整理
 
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+## 各大前端技术网站
+
+[腾讯AlloyTeam](http://www.alloyteam.com/)
+[淘宝前端团队FED](http://taobaofed.org/)
+[阿里巴巴国际UED团队](http://www.aliued.com/)
+[百度前端团队FEX](http://fex.baidu.com/)
+[奇虎360前端团队](https://75team.com/)
+[京东凹凸实验室](https://aotu.io/)
+[JRFE：京东移动研发部](https://fe.jr.jd.com/)
