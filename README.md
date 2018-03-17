@@ -49,10 +49,6 @@
 ## 面试资料
 
 
-## 资料整理
-
-[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-
 ## 各大前端技术网站
 
 [腾讯AlloyTeam](http://www.alloyteam.com/)
@@ -75,3 +71,7 @@
 
 [5iweb网页特效库](http://www.5iweb.com.cn/banner-slide-effects/)
 
+
+## 资料整理
+
+[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
