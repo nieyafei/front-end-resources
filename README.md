@@ -34,6 +34,14 @@
 
   [NUXT：通用应用框架](https://zh.nuxtjs.org/)
 
+  ### 其它
+
+  [docsify](https://docsify.js.org/#/zh-cn/quickstart)
+
+  [gittalk](https://gitalk.github.io/)
+
+  [vuep](https://cinwell.com/vuep/#/)
+
 ## 面试资料
 
 
