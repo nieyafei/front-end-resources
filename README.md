@@ -14,6 +14,10 @@
 
 [30 Seconds of CSS](https://github.com/Chalarangelo/30-seconds-of-code)
 
+[各种页面常见布局+知名网站实例分析+相关阅读推荐](https://github.com/Sweet-KK/css-layout)
+
+[You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/)
+
 ## JS
 
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
