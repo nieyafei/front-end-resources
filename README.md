@@ -20,6 +20,20 @@
 
 [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
+## 框架工具
+
+  ### REACT
+
+  [REACT框架](https://reactjs.org/)
+
+  [React China](http://react-china.org/)
+
+  ### VUE
+
+  [VUE框架](https://cn.vuejs.org/)
+
+  [NUXT：通用应用框架](https://zh.nuxtjs.org/)
+
 ## 面试资料
 
 
@@ -42,3 +56,10 @@
 [京东凹凸实验室](https://aotu.io/)
 
 [JRFE：京东移动研发部](https://fe.jr.jd.com/)
+
+## 前端特效资源收集
+
+[CODEPEN：优秀DEMO展示，很强大](https://codepen.io/)
+
+[5iweb网页特效库](http://www.5iweb.com.cn/banner-slide-effects/)
+
