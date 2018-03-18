@@ -53,6 +53,8 @@
 
 [腾讯AlloyTeam](http://www.alloyteam.com/)
 
+[腾讯TGideas](http://tgideas.qq.com/)
+
 [淘宝前端团队FED](http://taobaofed.org/)
 
 [阿里巴巴国际UED团队](http://www.aliued.com/)
@@ -65,13 +67,31 @@
 
 [JRFE：京东移动研发部](https://fe.jr.jd.com/)
 
+[携程UED](http://ued.ctrip.com/)
+
+[新浪UED](http://ued.sina.com/)
+
+
 ## 前端特效资源收集
 
 [CODEPEN：优秀DEMO展示，很强大](https://codepen.io/)
 
 [5iweb网页特效库](http://www.5iweb.com.cn/banner-slide-effects/)
 
+[酷炫的配色COLORS](http://nipponcolors.com/)
+
+## 字体图标
+
+[IconFont（推荐）](http://iconfont.cn/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[IcoMoon](https://icomoon.io/app/#/select)
+
+[Material Icon](https://material.io/icons/)
+
 
 ## 资料整理
 
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
