@@ -21,6 +21,12 @@
 
 [Can I Use](https://caniuse.com/)
 
+[CSS3 Generator](http://css3generator.com/)
+
+[CSS-Tricks](https://css-tricks.com/)
+
+[Animate CSS](https://daneden.github.io/animate.css/)
+
 ## JS
 
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
@@ -88,6 +94,8 @@
 [酷炫的配色COLORS](http://nipponcolors.com/)
 
 [前端观察](https://www.qianduan.net/)
+
+[F2EX](http://f2ex.cn/)
 
 ## 字体图标
 
