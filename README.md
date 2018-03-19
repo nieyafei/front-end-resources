@@ -26,6 +26,8 @@
 
 [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
+[冴羽的博客](https://github.com/mqyqingfeng/Blog)
+
 ## 框架工具
 
   ### REACT
