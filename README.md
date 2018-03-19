@@ -7,6 +7,7 @@
 
 ## HTML
 
+[前端代码规范 (腾讯 AlloyTeam 团队)](http://alloyteam.github.io/CodeGuide/)
 
 ## CSS
 
@@ -98,6 +99,9 @@
 
 [Material Icon](https://material.io/icons/)
 
+[Fontello](http://fontello.com/)
+
+[Glyphicon Halflings](http://glyphicons.com/)
 
 ## 资料整理
 
