@@ -18,6 +18,8 @@
 
 [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/)
 
+[Can I Use](https://caniuse.com/)
+
 ## JS
 
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
@@ -79,6 +81,8 @@
 [5iweb网页特效库](http://www.5iweb.com.cn/banner-slide-effects/)
 
 [酷炫的配色COLORS](http://nipponcolors.com/)
+
+[前端观察](https://www.qianduan.net/)
 
 ## 字体图标
 
