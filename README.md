@@ -9,6 +9,8 @@
 
 [前端代码规范 (腾讯 AlloyTeam 团队)](http://alloyteam.github.io/CodeGuide/)
 
+[web docs MDN](https://developer.mozilla.org/zh-CN/)
+
 ## CSS
 
 [30 Seconds of CSS 中文版](https://github.com/kujian/30-seconds-of-css)
