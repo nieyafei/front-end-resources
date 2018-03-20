@@ -35,6 +35,12 @@
 
 [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 
+[JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
+[ECMAScript 6入门(阮一峰)](http://es6.ruanyifeng.com/)
+
+[JavaScript 标准参考教程(阮一峰)](http://javascript.ruanyifeng.com/)
+
 ## 框架工具
 
   ### REACT
@@ -61,6 +67,7 @@
 
 [Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers)
 
+[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 
 ## 各大前端技术网站
 
