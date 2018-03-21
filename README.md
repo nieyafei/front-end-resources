@@ -11,6 +11,8 @@
 
 [web docs MDN](https://developer.mozilla.org/zh-CN/)
 
+[12个HTML和CSS必须知道的重点难点问题](https://juejin.im/post/5aae076d6fb9a028cc6100a9?utm_medium=fe&utm_source=weixinqun)
+
 ## CSS
 
 [30 Seconds of CSS 中文版](https://github.com/kujian/30-seconds-of-css)
@@ -28,6 +30,14 @@
 [CSS-Tricks](https://css-tricks.com/)
 
 [Animate CSS](https://daneden.github.io/animate.css/)
+
+[干货!各种常见布局实现+知名网站实例分析](https://juejin.im/post/5aa252ac518825558001d5de)
+
+[BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+[CSS之BFC详解](http://www.html-js.com/article/1866)
+
+[一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 
 ## JS
 
@@ -73,9 +83,12 @@
 
 ## FE综合
 
+  [腾讯移动Web前端知识库](https://github.com/hoosin/mobile-web-favorites)
+
   [十大经典排序算法总结（JavaScript描述）](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
   
   [前端数据结构与算法总结](https://juejin.im/post/5958bac35188250d892f5c91)
+
 
 ## 面试资料
 
