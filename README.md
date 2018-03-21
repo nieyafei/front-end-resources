@@ -71,6 +71,12 @@
 
   [vuep](https://cinwell.com/vuep/#/)
 
+## FE综合
+
+  [十大经典排序算法总结（JavaScript描述）](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+  
+  [前端数据结构与算法总结](https://juejin.im/post/5958bac35188250d892f5c91)
+
 ## 面试资料
 
 [Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers)
