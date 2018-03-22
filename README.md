@@ -87,6 +87,8 @@
 
   [vuep](https://cinwell.com/vuep/#/)
 
+  [快应用](https://doc.quickapp.cn/)
+
 ## FE综合
 
   [腾讯移动Web前端知识库](https://github.com/hoosin/mobile-web-favorites)
