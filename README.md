@@ -41,6 +41,8 @@
 
 [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 
+[Saas详解](https://www.w3cplus.com/sassguide/index.html)
+
 ## JS
 
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
@@ -54,6 +56,8 @@
 [ECMAScript 6入门(阮一峰)](http://es6.ruanyifeng.com/)
 
 [JavaScript 标准参考教程(阮一峰)](http://javascript.ruanyifeng.com/)
+
+[ScriptOJ: Web 前端开发评测系统](https://scriptoj.com/)
 
 ## 框架工具
 
@@ -120,6 +124,7 @@
 
 [新浪UED](http://ued.sina.com/)
 
+[前端圈](https://fequan.com/)
 
 ## 前端特效资源收集
 
