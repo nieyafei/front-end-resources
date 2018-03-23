@@ -13,11 +13,6 @@
 
 [12个HTML和CSS必须知道的重点难点问题](https://juejin.im/post/5aae076d6fb9a028cc6100a9?utm_medium=fe&utm_source=weixinqun)
 
-[W3C：大漠](https://www.w3cplus.com/)
-
-[伯乐在线](http://blog.jobbole.com/)
-
-[WEB前端开发](http://www.css88.com/)
 
 ## CSS
 
@@ -131,6 +126,12 @@
 [新浪UED](http://ued.sina.com/)
 
 [前端圈](https://fequan.com/)
+
+[W3C：大漠](https://www.w3cplus.com/)
+
+[伯乐在线](http://blog.jobbole.com/)
+
+[WEB前端开发](http://www.css88.com/)
 
 ## 前端特效资源收集
 
