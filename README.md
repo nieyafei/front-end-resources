@@ -15,6 +15,10 @@
 
 [W3C：大漠](https://www.w3cplus.com/)
 
+[伯乐在线](http://blog.jobbole.com/)
+
+[WEB前端开发](http://www.css88.com/)
+
 ## CSS
 
 [30 Seconds of CSS 中文版](https://github.com/kujian/30-seconds-of-css)
