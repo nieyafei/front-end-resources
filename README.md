@@ -58,6 +58,8 @@
 
 [ScriptOJ: Web 前端开发评测系统](https://scriptoj.com/)
 
+[精心收集的 95 个超实用的 JavaScript 代码片段（ ES6+ 编写）](http://www.css88.com/archives/8748)
+
 ## 框架工具
 
   ### REACT
