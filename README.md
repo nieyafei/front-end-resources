@@ -64,6 +64,8 @@
 
 [精心收集的 95 个超实用的 JavaScript 代码片段（ ES6+ 编写）](http://www.css88.com/archives/8748)
 
+[do you really know JavaScript?](http://javascript-puzzlers.herokuapp.com/)
+
 [Js tips](http://www.jstips.co/zh_CN/)
 
 ## 框架工具
