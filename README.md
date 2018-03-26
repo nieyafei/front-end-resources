@@ -60,6 +60,8 @@
 
 [精心收集的 95 个超实用的 JavaScript 代码片段（ ES6+ 编写）](http://www.css88.com/archives/8748)
 
+[Js tips](http://www.jstips.co/zh_CN/)
+
 ## 框架工具
 
   ### REACT
@@ -133,7 +135,6 @@
 
 [新浪UED](http://ued.sina.com/)
 
-
 [前端圈](https://fequan.com/)
 
 [W3C：大漠](https://www.w3cplus.com/)
@@ -141,6 +142,7 @@
 [伯乐在线](http://blog.jobbole.com/)
 
 [WEB前端开发](http://www.css88.com/)
+
 
 ## 前端特效资源收集
 
