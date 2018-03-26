@@ -125,6 +125,10 @@
 
   [Cocos Creator](http://www.cocos.com/)
 
+## 机器学习
+
+  [TensorFlow 官方文档中文版](https://github.com/xitu/tensorflow-docs)
+
 ## 面试资料
 
 [Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers)
