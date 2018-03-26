@@ -105,6 +105,26 @@
   [前端数据结构与算法总结](https://juejin.im/post/5958bac35188250d892f5c91)
 
 
+## 可视化
+
+  [Echarts](http://echarts.baidu.com/)
+
+  [AntV](https://antv.alipay.com/zh-cn/index.html)
+
+  [D3](https://d3js.org/)
+
+  [Three](https://threejs.org/)
+
+  [Highcharts](https://www.highcharts.com/)
+
+## 游戏框架
+
+  [白鹭引擎](https://www.egret.com/)
+  
+  [PhaserJs](http://phaser.io/)
+
+  [Cocos Creator](http://www.cocos.com/)
+
 ## 面试资料
 
 [Interview-Questions-Answers](https://github.com/Liyuk/Interview-Questions-Answers)
