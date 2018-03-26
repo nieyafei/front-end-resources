@@ -121,6 +121,8 @@
 
 [百度前端团队FEX](http://fex.baidu.com/)
 
+[百度EFE](http://efe.baidu.com/)
+
 [奇虎360前端团队](https://75team.com/)
 
 [京东凹凸实验室](https://aotu.io/)
@@ -130,6 +132,7 @@
 [携程UED](http://ued.ctrip.com/)
 
 [新浪UED](http://ued.sina.com/)
+
 
 [前端圈](https://fequan.com/)
 
