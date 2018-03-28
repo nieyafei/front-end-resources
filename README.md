@@ -188,6 +188,8 @@
 
 [Hellogirl](http://www.jqhtml.com/)
 
+[JQuery插件库](http://www.jq22.com/)
+
 ## 字体图标
 
 [IconFont（推荐）](http://iconfont.cn/)
