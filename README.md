@@ -214,3 +214,25 @@
 ## 在线工具
 
 [图片压缩](https://tinypng.com/)
+
+## 配色网站
+
+[Palettable](https://palettable.io/ECE9A6)
+
+[Color Library](http://colorlibrary.ch/)
+
+[Flat UI Colors2](https://flatuicolors.com/)
+
+[Pigment](https://pigment.shapefactory.co/)
+
+[Colorado](http://moesaid.com/colorado)
+
+[Brandcolors](http://brandcolors.net/)
+
+[Brandcolors](http://brandcolors.net/)
+
+[Colorwise](https://colorwise.io/)
+
+[The Colorbook](http://colorbook.me/)
+
+[CSS Gradient](http://cssgradient.io/)
