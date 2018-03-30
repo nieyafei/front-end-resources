@@ -7,6 +7,8 @@
 
 ## HTML
 
+[MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+
 [前端代码规范 (腾讯 AlloyTeam 团队)](http://alloyteam.github.io/CodeGuide/)
 
 [web docs MDN](https://developer.mozilla.org/zh-CN/)
@@ -48,6 +50,8 @@
 
 ## JS
 
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
 
 [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -60,6 +64,8 @@
 
 [JavaScript 标准参考教程(阮一峰)](http://javascript.ruanyifeng.com/)
 
+[JavaScript教程 (廖雪峰)](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
 [ScriptOJ: Web 前端开发评测系统](https://scriptoj.com/)
 
 [精心收集的 95 个超实用的 JavaScript 代码片段（ ES6+ 编写）](http://www.css88.com/archives/8748)
@@ -69,6 +75,26 @@
 [Js tips](http://www.jstips.co/zh_CN/)
 
 [37 Essential JavaScript Interview Questions ](https://www.toptal.com/javascript/interview-questions)
+
+[javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks)
+
+[JavaScript Promise迷你书](http://liubin.org/promises-book/)
+
+[MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+## NodeJs
+
+[Node入门](https://www.nodebeginner.org/index-zh-cn.html)
+
+[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+
+[express](http://expressjs.jser.us/)
+
+[koa](https://koa.bootcss.com/)
+
+[Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
+[Learn You The Node.js For Much Win!](https://www.npmjs.com/package/learnyounode-zh-cn)
 
 ## 框架工具
 
