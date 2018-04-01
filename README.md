@@ -5,6 +5,16 @@
 
 > 前端资源整理收集文档，主要面对一些优秀的blog，技术文档，面试等资料
 
+## 计算机基础和网络
+
+  [HTTP](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
+
+  [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
+
+  [计算机操作系统](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+
+  [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
+
 ## HTML
 
 [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
@@ -133,6 +143,16 @@
   [vuep](https://cinwell.com/vuep/#/)
 
   [快应用](https://doc.quickapp.cn/)
+
+## 数据结构、算法、设计模式
+
+  [算法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E7%AE%97%E6%B3%95.md)
+
+  [剑指 Offer 题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md#2-%E5%AE%9E%E7%8E%B0-singleton)
+
+  [Leetcode 题解](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
+
+  [设计模式](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 ## FE综合
 
