@@ -66,6 +66,10 @@
 
 [JavaScript教程 (廖雪峰)](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
+[轻量函数式 JavaScript](https://github.com/JoeHetfield/Functional-Light-JS)
+
+[promise 手册](https://github.com/mattdesl/promise-cookbook)
+
 [ScriptOJ: Web 前端开发评测系统](https://scriptoj.com/)
 
 [精心收集的 95 个超实用的 JavaScript 代码片段（ ES6+ 编写）](http://www.css88.com/archives/8748)
@@ -138,6 +142,15 @@
   
   [前端数据结构与算法总结](https://juejin.im/post/5958bac35188250d892f5c91)
 
+  [Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+
+## 计算机图形学
+
+  [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/zh-CN/)
+
+  [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
+
+  [WebGL中文网](http://www.hewebgl.com/)
 
 ## 可视化
 
