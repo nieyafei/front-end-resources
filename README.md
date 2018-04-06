@@ -66,6 +66,16 @@
 
 [Jank Free](http://jankfree.org/)
 
+[matrix3d](http://ds-overdesign.com/transform/matrix3d.html)
+
+[CSS-Matrix3d](https://github.com/Zhangdroid/CSS-Matrix3d)
+
+[matrix](http://meyerweb.com/eric/tools/matrix/)
+
+[tools](http://www.f2e.name/case/css3/tools.html)
+
+[Animate.css](https://daneden.github.io/animate.css/)
+
 ## JS
 
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
