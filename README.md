@@ -78,6 +78,14 @@
 
 [Object-Oriented CSS(OO CSS 面向对象编程Css)](http://oocss.org/)
 
+### CSS Reset
+
+[Neat.css](http://thx.github.io/cube/doc/neat)
+
+[normalize.css](https://github.com/necolas/normalize.css)
+
+[CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+
 ## JS
 
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
