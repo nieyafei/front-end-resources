@@ -86,6 +86,8 @@
 
 [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
+[Hint.css](https://kushagragour.in/lab/hint/)
+
 ## JS
 
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
