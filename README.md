@@ -304,6 +304,8 @@
 
 [图片压缩](https://tinypng.com/)
 
+[PNG ALL](http://www.pngall.com/)
+
 ## 配色网站
 
 [Palettable](https://palettable.io/ECE9A6)
