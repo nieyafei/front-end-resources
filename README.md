@@ -168,6 +168,8 @@
 
   [PWA-Book-CN](http://sangka-z.com/PWA-Book-CN/)
 
+  [LAVAS](https://lavas.baidu.com/)
+
   ### 其它
 
   [docsify](https://docsify.js.org/#/zh-cn/quickstart)
