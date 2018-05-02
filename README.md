@@ -316,6 +316,8 @@
 
 [PNG ALL](http://www.pngall.com/)
 
+[智图：图片优化](http://zhitu.isux.us/)
+
 ## 配色网站
 
 [Palettable](https://palettable.io/ECE9A6)
