@@ -160,6 +160,8 @@
 
   [VUX 移动端UI框架](https://vux.li/?ref=jqweui#/)
 
+  [VUE-ANTD](https://vuecomponent.github.io/ant-design/docs/vue/introduce/)
+
   ### Weex Ui
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
