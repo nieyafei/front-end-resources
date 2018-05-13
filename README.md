@@ -218,6 +218,8 @@
 
   [EffectHub Cocos2dx 特效编辑器](http://www.effecthub.com/particle2dx)
 
+  [AlloyStick: 骨骼动画引擎](http://alloyteam.github.io/AlloyStick/)
+
 ## 可视化
 
   [Echarts](http://echarts.baidu.com/)
