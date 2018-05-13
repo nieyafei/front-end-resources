@@ -220,6 +220,8 @@
 
   [AlloyStick: 骨骼动画引擎](http://alloyteam.github.io/AlloyStick/)
 
+  [Cocos](http://www.cocos.com/)
+
 ## 可视化
 
   [Echarts](http://echarts.baidu.com/)
