@@ -214,6 +214,10 @@
 
   [WebGL中文网](http://www.hewebgl.com/)
 
+  [Three.js](https://threejs.org/)
+
+  [EffectHub Cocos2dx 特效编辑器](http://www.effecthub.com/particle2dx)
+
 ## 可视化
 
   [Echarts](http://echarts.baidu.com/)
