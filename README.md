@@ -236,6 +236,8 @@
 
   [ichartjs](http://www.ichartjs.com/)
 
+  [Fusioncharts](https://www.fusioncharts.com/)
+
 ## 游戏框架
 
   [白鹭引擎](https://www.egret.com/)
