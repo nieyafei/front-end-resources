@@ -234,6 +234,8 @@
 
   [Highcharts](https://www.highcharts.com/)
 
+  [ichartjs](http://www.ichartjs.com/)
+
 ## 游戏框架
 
   [白鹭引擎](https://www.egret.com/)
