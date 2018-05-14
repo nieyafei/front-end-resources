@@ -154,6 +154,8 @@
 
   [VUE框架](https://cn.vuejs.org/)
 
+  ### 组件库
+
   [NUXT：通用应用框架](https://zh.nuxtjs.org/)
 
   [VANT](https://www.youzanyun.com/zanui/vant#/zh-CN/intro)
@@ -163,6 +165,12 @@
   [VUE-ANTD](https://vuecomponent.github.io/ant-design/docs/vue/introduce/)
 
   [Element](http://element-cn.eleme.io/#/zh-CN)
+
+  [iView](https://www.iviewui.com/)
+
+  [Muse-UI](http://www.muse-ui.org/#/index)
+
+  [Keen UI](https://josephuspaye.github.io/Keen-UI/#/ui-autocomplete)
 
   ### Weex Ui
 
