@@ -162,6 +162,8 @@
 
   [VUE-ANTD](https://vuecomponent.github.io/ant-design/docs/vue/introduce/)
 
+  [Element](http://element-cn.eleme.io/#/zh-CN)
+
   ### Weex Ui
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
