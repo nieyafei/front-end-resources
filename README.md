@@ -150,6 +150,8 @@
 
   [Ant Design UI框架](https://ant.design/docs/react/introduce-cn)
 
+  [Ant Motion动效](https://motion.ant.design/)
+
   ### VUE
 
   [VUE框架](https://cn.vuejs.org/)
@@ -330,6 +332,10 @@
 [Glyphicon Halflings](http://glyphicons.com/)
 
 [FontSpider: 字蛛是一个中文字体压缩器](http://font-spider.org/)
+
+[IconJar](https://geticonjar.com)
+
+[Icon Store](https://iconstore.co/)
 
 ## 资料整理
 
