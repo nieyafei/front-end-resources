@@ -78,6 +78,12 @@
 
 [Object-Oriented CSS(OO CSS 面向对象编程Css)](http://oocss.org/)
 
+[Hover.css: 鼠标Hover态的效果](http://ianlunn.github.io/Hover/)
+
+[ihover: 鼠标Hover图片效果](http://gudh.github.io/ihover/dist/index.html)
+
+[imagehover.css: 鼠标Hover图片效果](http://www.imagehover.io/)
+
 ### CSS Reset
 
 [Neat.css](http://thx.github.io/cube/doc/neat)
