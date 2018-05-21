@@ -381,3 +381,5 @@
 ## 其它
 
 [Main Controls](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+[Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
