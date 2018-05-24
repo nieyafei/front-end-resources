@@ -154,6 +154,10 @@
 
   [React China](http://react-china.org/)
 
+  [React in patterns: 介绍 React 开发的设计模式和技术](https://github.com/SangKa/react-in-patterns-cn)
+
+  #### 组件库
+
   [Ant Design UI框架](https://ant.design/docs/react/introduce-cn)
 
   [Ant Motion动效](https://motion.ant.design/)
@@ -166,7 +170,7 @@
 
   [VUE框架](https://cn.vuejs.org/)
 
-  ### 组件库
+  #### 组件库
 
   [NUXT：通用应用框架](https://zh.nuxtjs.org/)
 
