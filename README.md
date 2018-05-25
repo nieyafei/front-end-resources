@@ -190,6 +190,8 @@
 
   [AT UIKIT](https://at-ui.github.io/at-ui/#/zh)
 
+  [v-charts](https://github.com/elemefe/v-charts)
+
   ### Weex Ui
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
