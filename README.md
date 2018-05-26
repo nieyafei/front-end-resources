@@ -132,6 +132,10 @@
 
 [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
+## Jquery
+
+[Jquery插件库](http://www.jq22.com/)
+
 ## NodeJs
 
 [Node入门](https://www.nodebeginner.org/index-zh-cn.html)
