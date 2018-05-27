@@ -134,6 +134,8 @@
 
 ## Jquery
 
+[Jquery](https://github.com/jquery/jquery)
+
 [Jquery插件库](http://www.jq22.com/)
 
 ## NodeJs
