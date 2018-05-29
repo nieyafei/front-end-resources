@@ -198,6 +198,8 @@
 
   [v-charts](https://github.com/elemefe/v-charts)
 
+  [D2Admin - 基于vue的清新后台模板](https://github.com/FairyEver/d2admin-vue-element)
+
   ### Weex Ui
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
