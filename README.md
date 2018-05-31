@@ -202,6 +202,8 @@
 
   [TouchUI: 一套完全免费的高质量移动端UI框架](http://www.touchui.io/index.html)
 
+  [vue-element-admin: vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
   ### Weex Ui
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
