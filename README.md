@@ -84,6 +84,8 @@
 
 [imagehover.css: 鼠标Hover图片效果](http://www.imagehover.io/)
 
+[WOW: 在滚动过程中展示CSS动画效果(默认触发animate.css动画)](https://github.com/matthieua/WOW)
+
 ### CSS Reset
 
 [Neat.css](http://thx.github.io/cube/doc/neat)
