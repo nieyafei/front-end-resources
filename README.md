@@ -157,6 +157,8 @@
 
 [Learn You The Node.js For Much Win!](https://www.npmjs.com/package/learnyounode-zh-cn)
 
+[Node.js学习笔记](https://github.com/chyingp/nodejs-learning-guide)
+
 ## 框架工具
 
   ### REACT
