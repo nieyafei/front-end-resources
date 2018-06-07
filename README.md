@@ -221,6 +221,12 @@
 
   [LAVAS](https://lavas.baidu.com/)
 
+  ### 微信小程序
+
+  [wepy: 让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
+
+  [mpvue: 一个使用 Vue.js 开发小程序的前端框架](https://github.com/Meituan-Dianping/mpvue)
+
   ### 其它
 
   [docsify](https://docsify.js.org/#/zh-cn/quickstart)
