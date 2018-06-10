@@ -169,6 +169,8 @@
 
   [React in patterns: 介绍 React 开发的设计模式和技术](https://github.com/SangKa/react-in-patterns-cn)
 
+  [react-zmage: 一个基于 React 的可缩放图片控件](http://zmage.caldis.me/)
+
   #### 组件库
 
   [Ant Design UI框架](https://ant.design/docs/react/introduce-cn)
