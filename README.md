@@ -207,7 +207,7 @@
 
   [v-charts](https://github.com/elemefe/v-charts)
 
-  [D2Admin - 基于vue的清新后台模板](https://github.com/FairyEver/d2admin-vue-element)
+  [D2Admin: 基于vue的清新后台模板](https://github.com/FairyEver/d2admin-vue-element)
 
   [TouchUI: 一套完全免费的高质量移动端UI框架](http://www.touchui.io/index.html)
 
