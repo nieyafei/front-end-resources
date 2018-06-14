@@ -88,6 +88,8 @@
 
 [Pure.css: 一组轻量级、响应式纯css模块](https://www.purecss.cn/)
 
+[最短的CSS样式，勾勒大数据演示屏](https://juejin.im/post/5b1e2b50f265da6e5546c15d)
+
 
 ### CSS Reset
 
