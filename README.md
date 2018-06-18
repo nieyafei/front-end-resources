@@ -188,6 +188,8 @@
 
   [VUE框架](https://cn.vuejs.org/)
 
+  [Vue资源精选](http://vue.awesometiny.com/)
+
   #### 组件库
 
   [NUXT：通用应用框架](https://zh.nuxtjs.org/)
