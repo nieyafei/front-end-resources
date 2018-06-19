@@ -275,6 +275,10 @@
 
   [Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
+## 优秀框架插件
+
+  [Swiper：纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端](http://www.swiper.com.cn/)
+
 ## 计算机图形学
 
   [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/zh-CN/)
