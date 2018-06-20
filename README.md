@@ -222,6 +222,8 @@
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
 
+  [MinUI: 基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库](https://meili.github.io/min/docs/minui/)
+
   ### PWA
 
   [PWA-Book-CN](http://sangka-z.com/PWA-Book-CN/)
