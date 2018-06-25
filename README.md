@@ -228,8 +228,8 @@
 
   [PWA-Book-CN](http://sangka-z.com/PWA-Book-CN/)
 
-  [LAVAS](https://lavas.baidu.com/)
-  
+  [LAVAS: UI](https://lavas.baidu.com/)
+
 
   ### 微信小程序
 
