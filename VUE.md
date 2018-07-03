@@ -6,6 +6,8 @@
 
 [Vuetify: 开箱即用的项目脚手架](https://vuetifyjs.com/zh-Hans/)
 
+[Quasar](https://quasar-framework.org/)
+
 ## 常用组件资源
 
 ### scroll组件
