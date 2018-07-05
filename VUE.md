@@ -10,6 +10,8 @@
 
 [Element: 一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库](https://github.com/ElemeFE/element)
 
+[vue-material](https://codesandbox.io/s/github/vuematerial/examples/tree/master/examples/quick-start)
+
 ## 常用组件资源
 
 ### scroll组件
