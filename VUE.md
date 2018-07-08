@@ -14,6 +14,8 @@
 
 [Keen UI](https://josephuspaye.github.io/Keen-UI/#/ui-alert)
 
+[Buefy](https://github.com/buefy/buefy)
+
 ## 常用组件资源
 
 ### scroll组件
