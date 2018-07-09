@@ -16,6 +16,8 @@
 
 [Buefy](https://github.com/buefy/buefy)
 
+[Bootstrap + Vue](https://bootstrap-vue.js.org/)
+
 ## 常用组件资源
 
 ### scroll组件
