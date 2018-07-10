@@ -18,6 +18,8 @@
 
 [Bootstrap + Vue](https://bootstrap-vue.js.org/)
 
+[Muse-UI](https://github.com/museui/muse-ui)
+
 ## 常用组件资源
 
 ### scroll组件
