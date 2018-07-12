@@ -22,6 +22,8 @@
 
 [AT-UI](https://github.com/at-ui/at-ui)
 
+[Vux](https://github.com/airyland/vux)
+
 ## 常用组件资源
 
 ### scroll组件
