@@ -24,6 +24,8 @@
 
 [Vux](https://github.com/airyland/vux)
 
+[iView](https://github.com/iview/iview)
+
 ## 常用组件资源
 
 ### scroll组件
