@@ -26,6 +26,8 @@
 
 [iView](https://github.com/iview/iview)
 
+[Uiv](https://github.com/wxsms/uiv)
+
 ## 常用组件资源
 
 ### scroll组件
