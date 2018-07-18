@@ -32,6 +32,8 @@
 
 [Onsen UI+Vue](https://onsen.io/v2/guide/vue/)
 
+[Semantic UI+Vue](https://semantic-ui-vue.github.io/)
+
 ## 常用组件资源
 
 ### scroll组件
