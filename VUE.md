@@ -34,6 +34,9 @@
 
 [Semantic UI+Vue](https://semantic-ui-vue.github.io/)
 
+[Fish-UI](https://github.com/myliang/fish-ui)
+
+
 ## 常用组件资源
 
 ### scroll组件
