@@ -36,6 +36,7 @@
 
 [Fish-UI](https://github.com/myliang/fish-ui)
 
+[Cube UI](https://github.com/didi/cube-ui)
 
 ## 常用组件资源
 
