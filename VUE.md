@@ -40,6 +40,8 @@
 
 [Ant Design Vue](https://github.com/okoala/vue-antd)
 
+[Vueblu](https://github.com/chenz24/vue-blu)
+
 ## 常用组件资源
 
 ### scroll组件
