@@ -42,6 +42,8 @@
 
 [Vueblu](https://github.com/chenz24/vue-blu)
 
+[n3-components](https://n3-components.github.io/N3-components/component.html#n3LayoutDocs)
+
 ## 常用组件资源
 
 ### scroll组件
