@@ -56,6 +56,8 @@
 
 [Vonic](https://github.com/wangdahoo/vonic)
 
+[Vum](https://github.com/vum-team/vum)
+
 ## 常用组件资源
 
 ### scroll组件
