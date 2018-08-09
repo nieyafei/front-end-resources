@@ -58,6 +58,8 @@
 
 [Vum](https://github.com/vum-team/vum)
 
+[Vue-Carbon](https://github.com/myronliu347/vue-carbon)
+
 ## 常用组件资源
 
 ### scroll组件
