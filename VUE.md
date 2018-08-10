@@ -60,6 +60,8 @@
 
 [Vue-Carbon](https://github.com/myronliu347/vue-carbon)
 
+[YDUI](https://github.com/ydcss/vue-ydui)
+
 ## 常用组件资源
 
 ### scroll组件
