@@ -62,6 +62,8 @@
 
 [YDUI](https://github.com/ydcss/vue-ydui)
 
+[Vuwe](https://github.com/vuwe/vuwe)
+
 ## 常用组件资源
 
 ### scroll组件
