@@ -64,6 +64,8 @@
 
 [Vuwe](https://github.com/vuwe/vuwe)
 
+[WE-VUE](https://github.com/tianyong90/we-vue)
+
 ## 常用组件资源
 
 ### scroll组件
