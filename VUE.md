@@ -92,6 +92,8 @@
 
 [vue-loader](https://github.com/vuejs/vue-loader)
 
+[vue-validator](https://github.com/kazupon/vue-validator)
+
 ## 
 
 []()
