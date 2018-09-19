@@ -96,6 +96,8 @@
 
 [vue-validator](https://github.com/kazupon/vue-validator)
 
+[Vue-Awesome-Swiper: 基于 Swiper4、适用于 Vue 的轮播组件，支持服务端渲染和单页应用](https://www.npmjs.com/package/vue-awesome-swiper)
+
 ## 
 
 []()
