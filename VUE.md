@@ -98,6 +98,8 @@
 
 [Vue-Awesome-Swiper: 基于 Swiper4、适用于 Vue 的轮播组件，支持服务端渲染和单页应用](https://www.npmjs.com/package/vue-awesome-swiper)
 
+[better-scroll](http://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
+
 ## 
 
 []()
