@@ -7,6 +7,7 @@
 
 [React框架有关资源](REACT.md)
 [Vue框架有关资源](REACT.md)
+[小程序](Wechat.md)
 
 ## 计算机基础和网络
 
@@ -167,6 +168,8 @@
 
 [Node.js学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 
+[N-blog: 一起学 Node.js学习笔记](https://github.com/nswbmw/N-blog)
+
 ## 框架工具
 
   ### REACT
@@ -287,6 +290,8 @@
 
   [Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
+  [HelloGithub: 一个分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+
 ## 优秀框架插件
 
   [Swiper：纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端](http://www.swiper.com.cn/)
@@ -300,6 +305,15 @@
   [nodeclub: 网页版演示库](https://github.com/ksky521/nodePPT)
 
   [clipboard: 点击复制](https://github.com/zenorocha/clipboard.js)
+
+  [screenfull.js: 极小、跨平台的 JavaScript 全屏插件](https://github.com/sindresorhus/screenfull.js)
+
+  [weweChat: 微信的第三方客户端](https://github.com/trazyn/weweChat)
+
+  [flatpickr: 扁平化的日期选择组件](https://github.com/flatpickr/flatpickr)
+
+  [carbon: 以美观、整洁的方式，展示你的代码片段](https://github.com/dawnlabs/carbon)
+
 
 ## 计算机图形学
 
