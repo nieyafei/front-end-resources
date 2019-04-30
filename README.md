@@ -18,6 +18,8 @@
 
   [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
 
+  [VeryNginx: 功能强大而对人类友好的Nginx 扩展程序](https://github.com/alexazhou/VeryNginx)
+
 ## HTML
 
 [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
@@ -221,7 +223,9 @@
 
   [vue-element-admin: vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-  ### Weex Ui
+  ### Weex
+
+  [Weex官网](https://weex.apache.org/zh/)
 
   [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
 
@@ -286,6 +290,16 @@
 ## 优秀框架插件
 
   [Swiper：纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端](http://www.swiper.com.cn/)
+
+  [wechat-h5-boilerplate:为腾讯微信优化的H5动效模板，帮助你快速构建全屏滚动型H5页面](https://github.com/panteng/wechat-h5-boilerplate)
+
+  [editor.md: 一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建](https://github.com/pandao/editor.md)
+
+  [share.js: 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等](https://github.com/overtrue/share.js)
+
+  [nodeclub: 网页版演示库](https://github.com/ksky521/nodePPT)
+
+  [clipboard: 点击复制](https://github.com/zenorocha/clipboard.js)
 
 ## 计算机图形学
 
@@ -450,4 +464,4 @@
 
 [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
-[]()
+[开源的卡通头像生成器](https://github.com/fangpenlin/avataaars-generator)
