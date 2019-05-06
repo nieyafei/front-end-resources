@@ -8,6 +8,7 @@
 [React框架有关资源](REACT.md)
 [Vue框架有关资源](REACT.md)
 [小程序](Wechat.md)
+[2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
 
 ## 计算机基础和网络
 
@@ -20,6 +21,8 @@
   [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
 
   [VeryNginx: 功能强大而对人类友好的Nginx 扩展程序](https://github.com/alexazhou/VeryNginx)
+
+  [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command#dash-%E7%89%88%E6%9C%AC)
 
 ## HTML
 
@@ -280,6 +283,8 @@
 
   [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
 
+  [leetcode题解 个人解题之路](https://github.com/azl397985856/leetcode)
+
 ## FE综合
 
   [腾讯移动Web前端知识库](https://github.com/hoosin/mobile-web-favorites)
@@ -291,6 +296,8 @@
   [Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
   [HelloGithub: 一个分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+
+  [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 ## 优秀框架插件
 
@@ -479,3 +486,5 @@
 [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
 [开源的卡通头像生成器](https://github.com/fangpenlin/avataaars-generator)
+
+[搜索多语言翻译](https://i18ns.com/)
