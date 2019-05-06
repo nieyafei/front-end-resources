@@ -99,6 +99,7 @@
 
 * [最短的CSS样式，勾勒大数据演示屏](https://juejin.im/post/5b1e2b50f265da6e5546c15d)
 
+* [45个值得收藏的 CSS 形状](https://juejin.im/post/5cbd1f0ae51d456e5e035f45#heading-14)
 
 ### CSS Reset
 
@@ -321,6 +322,8 @@
 
 * [carbon: 以美观、整洁的方式，展示你的代码片段](https://github.com/dawnlabs/carbon)
 
+* [Shepherd: 一款便于我们为一款产品做新手指引的工具库，通过一些简单的api就可以实现该功能，目前对于Vue，React，Angular，Ember框架都有支持](https://shipshapecode.github.io/shepherd/docs/welcome/)
+
 
 ## 计算机图形学
 
@@ -490,3 +493,5 @@
 * [搜索多语言翻译](https://i18ns.com/)
 
 * [小霸王模拟器: 提供魂斗罗、冒险岛、热血格斗传送、超级马里奥等经典游戏供玩家体验](https://yikm.net/)
+
+* [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
