@@ -5,10 +5,10 @@
 
 > 前端资源整理收集文档，主要面对一些优秀的blog，技术文档，面试等资料
 
-[React框架有关资源](REACT.md)
-[Vue框架有关资源](REACT.md)
-[小程序](Wechat.md)
-[2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
+* [React框架有关资源](REACT.md)
+* [Vue框架有关资源](REACT.md)
+* [小程序](Wechat.md)
+* [2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
 
 ## 计算机基础和网络
 
