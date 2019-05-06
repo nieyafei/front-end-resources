@@ -488,3 +488,5 @@
 * [开源的卡通头像生成器](https://github.com/fangpenlin/avataaars-generator)
 
 * [搜索多语言翻译](https://i18ns.com/)
+
+* [小霸王模拟器: 提供魂斗罗、冒险岛、热血格斗传送、超级马里奥等经典游戏供玩家体验](https://yikm.net/)
