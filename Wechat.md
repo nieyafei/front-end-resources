@@ -4,4 +4,4 @@
 
   ### 优秀项目
 
-  [小程序营销组件](https://github.com/o2team/wxapp-market)
+  * [小程序营销组件](https://github.com/o2team/wxapp-market)
