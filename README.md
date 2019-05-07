@@ -495,3 +495,5 @@
 * [小霸王模拟器: 提供魂斗罗、冒险岛、热血格斗传送、超级马里奥等经典游戏供玩家体验](https://yikm.net/)
 
 * [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+* [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
