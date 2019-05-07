@@ -66,6 +66,8 @@
 
   * [WE-VUE](https://github.com/tianyong90/we-vue)
 
+  * [NutUI(京东)：轻量级移动端Vue组件库 ](https://nutui.jd.com/#/index)
+
 ## 常用组件资源
 
 ### scroll组件
