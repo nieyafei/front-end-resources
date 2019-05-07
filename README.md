@@ -497,3 +497,5 @@
 * [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 * [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+
+* [Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown)
