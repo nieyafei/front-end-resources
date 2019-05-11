@@ -26,6 +26,8 @@
 
   * [Zent: 有赞Web](https://youzan.github.io/zent/)
 
+  * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+
 ## 移动端组件UI
 
   * [Ant Design Mobile: 一个基于 Preact / React / React Native 的 UI 组件库](https://mobile.ant.design/index-cn)
