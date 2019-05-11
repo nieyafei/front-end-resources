@@ -101,6 +101,8 @@
 
 * [45个值得收藏的 CSS 形状](https://juejin.im/post/5cbd1f0ae51d456e5e035f45#heading-14)
 
+* [cssfx: 即拿即用的 CSS 小功能](https://cssfx.dev/)
+
 ### CSS Reset
 
 * [Neat.css](http://thx.github.io/cube/doc/neat)
@@ -175,26 +177,6 @@
 * [N-blog: 一起学 Node.js学习笔记](https://github.com/nswbmw/N-blog)
 
 ## 框架工具
-
-  ### REACT
-
-* [REACT框架](https://reactjs.org/)
-
-* [React China](http://react-china.org/)
-
-* [React in patterns: 介绍 React 开发的设计模式和技术](https://github.com/SangKa/react-in-patterns-cn)
-
-* [react-zmage: 一个基于 React 的可缩放图片控件](http://zmage.caldis.me/)
-
-  #### 组件库
-
-* [Ant Design UI框架](https://ant.design/docs/react/introduce-cn)
-
-* [Ant Motion动效](https://motion.ant.design/)
-
-* [element-react](http://element-cn.eleme.io/#/zh-CN/guide/design)
-
-* [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/office-ui-fabric-core)
 
   ### VUE
 
