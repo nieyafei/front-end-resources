@@ -429,6 +429,8 @@
 
 * [Icon Store](https://iconstore.co/)
 
+* [开源图标库 Remix Icon](https://remixicon.com/)
+
 ## 资料整理
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
