@@ -9,3 +9,5 @@
   ### 优秀项目
 
   * [小程序营销组件](https://github.com/o2team/wxapp-market)
+
+  * [Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy)
