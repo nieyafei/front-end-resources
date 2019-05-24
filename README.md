@@ -10,6 +10,9 @@
 * [小程序](Wechat.md)
 * [2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
 
+## NEW（最新更新）
+  * [Filepond：一个可以让你通过拖曳上传内容的 JavaScript 库。Filepond 21 KB大小，可用于 Vue、React、Angular。](https://pqina.nl/filepond/)
+
 ## 计算机基础和网络
 
 * [HTTP](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
