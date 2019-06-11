@@ -469,6 +469,8 @@
 
 * [CSS Gradient](http://cssgradient.io/)
 
+* [CoolHue](https://webkul.github.io/coolhue/)
+
 ## 其它
 
 * [Main Controls](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
