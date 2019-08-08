@@ -12,6 +12,7 @@
 
 ## NEW（最新更新）
   * [Filepond：一个可以让你通过拖曳上传内容的 JavaScript 库。Filepond 21 KB大小，可用于 Vue、React、Angular。](https://pqina.nl/filepond/)
+  * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
 ## 前端大牛资源
   
