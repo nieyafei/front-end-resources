@@ -10,6 +10,31 @@
 * [小程序](Wechat.md)
 * [2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
 
+## NEW（最新更新）
+
+* [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts?utm_source=gold_browser_extension)
+* [Filepond：一个可以让你通过拖曳上传内容的 JavaScript 库。Filepond 21 KB大小，可用于 Vue、React、Angular。](https://pqina.nl/filepond/)
+* [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+* [Zdog: 一款用于用于 Canvas 和 svg 的 JS 3D 渲染引擎](https://zzz.dog/)
+
+## 前端大牛资源
+  
+* [CS-Notes: 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计](https://github.com/CyC2018/CS-Notes)
+
+* [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+
+* [木易杨：前端进阶官网](https://muyiy.vip/)
+
+* [yck: 前端真好玩(前端面试之道作者)](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+
+* [第一名的小蝌蚪: 每周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
+
+* [五月君: Nodejs技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
+
+* [浪里行舟](https://github.com/ljianshu/Blog)
+
+* [前端瓶子君: JS、React 源码](https://github.com/sisterAn/blog)
+
 ## 计算机基础和网络
 
 * [HTTP](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
@@ -212,7 +237,7 @@
 
 * [vue-element-admin: vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-  ### Weex
+### Weex
 
 * [Weex官网](https://weex.apache.org/zh/)
 
@@ -220,14 +245,14 @@
 
 * [MinUI: 基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库](https://meili.github.io/min/docs/minui/)
 
-  ### PWA
+### PWA
 
 * [PWA-Book-CN](http://sangka-z.com/PWA-Book-CN/)
 
 * [LAVAS: UI](https://lavas.baidu.com/)
 
 
-  ### 微信小程序
+### 微信小程序
 
 * [wepy: 让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
 
@@ -236,13 +261,13 @@
 * [iVew Weapp: 一套高质量的微信小程序 UI 组件库](https://weapp.iviewui.com/)
 
 
-  ### 多端
+### 多端
 
 * [Taro: 一套 React 语法规范的多端开发解决方案](https://taro.aotu.io/)
 
 * [Flutter: Google 用以帮助开发者在 iOS 和 Android 两个平台开发高质量原生 UI 的移动 SDK](https://flutter-io.cn/#section-codelabs)
 
-  ### 其它
+### 其它
 
 * [docsify](https://docsify.js.org/#/zh-cn/quickstart)
 
@@ -465,6 +490,8 @@
 * [The Colorbook](http://colorbook.me/)
 
 * [CSS Gradient](http://cssgradient.io/)
+
+* [CoolHue](https://webkul.github.io/coolhue/)
 
 ## 其它
 
