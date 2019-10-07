@@ -1,5 +1,7 @@
 # Vue框架资源
 
+* [vue-next：尚处于 Pre-Alpha 状态的 Vue 3 源码](https://github.com/vuejs/vue-next)
+
 ## UI框架
 
   * [HeyUi: 快速构建前端工具](https://www.heyui.top/)
