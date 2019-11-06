@@ -9,6 +9,7 @@
 * [Vue框架有关资源](REACT.md)
 * [小程序](Wechat.md)
 * [2019 前端工程师手册（front-end-handbook-2019）★★★★★](https://github.com/FrontendMasters/front-end-handbook-2019)
+* [阮一峰：互联网上的免费书籍](https://github.com/ruanyf/free-books)
 
 ## NEW（最新更新）
 
