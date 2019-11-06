@@ -177,6 +177,8 @@
 
 * [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
+* [现代 JavaScript 教程: The Modern JavaScript Tutorial](https://zh.javascript.info/)
+
 ## Jquery
 
 * [Jquery](https://github.com/jquery/jquery)
