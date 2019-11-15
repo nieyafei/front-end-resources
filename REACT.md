@@ -44,6 +44,8 @@
 
 * [react-slick：走马灯](https://github.com/akiran/react-slick)
 
+* [chart-race-react: 一个简单易用的 Bar Chart Race（长条图赛跑动画） React 组件](https://github.com/Mckinsey666/chart-race-react)
+
 ### 图片组件
 
 * [react-zmage: 基于React的可缩放图片控件](http://zmage.caldis.me/)
@@ -67,3 +69,7 @@
 * [Ink: 使用 React 编写命令行界面](https://github.com/vadimdemedes/ink)
 
 * [egg-react-ssr: 最小而美的Egg + React + SSR 服务端渲染应用骨架](https://github.com/ykfe/egg-react-ssr)
+
+### 有关项目
+
+* [fiora: 一个功能丰富、支持多端的在线聊天室](https://github.com/yinxin630/fiora)

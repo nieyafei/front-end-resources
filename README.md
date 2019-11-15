@@ -180,6 +180,10 @@
 
 * [现代 JavaScript 教程: The Modern JavaScript Tutorial](https://zh.javascript.info/)
 
+* [nzh：阿拉伯数字与中文数字相互转化的 JS 库](https://github.com/cnwhy/nzh)
+
+* [request: JavaScript 简单、易用的 HTTP 请求客户端](https://github.com/request/request)
+
 ## Jquery
 
 * [Jquery](https://github.com/jquery/jquery)
