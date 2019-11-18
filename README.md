@@ -184,6 +184,14 @@
 
 * [request: JavaScript 简单、易用的 HTTP 请求客户端](https://github.com/request/request)
 
+* [JavaScript 进阶问题列表，包含答案](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
+
+* [licia: 比较实用的 JS 工具库，内置了很多可能在工程中经常会用到的工具函数。](https://github.com/liriliri/licia/blob/master/README_CN.md)
+
+## TypeScript
+
+* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
+
 ## Jquery
 
 * [Jquery](https://github.com/jquery/jquery)
