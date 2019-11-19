@@ -6,6 +6,8 @@
 
 * [React in patterns: 介绍 React 开发的设计模式和技术](https://github.com/SangKa/react-in-patterns-cn)
 
+* [react-developer-roadmap: 学习 React 的路径](https://github.com/adam-golab/react-developer-roadmap)
+
 ## 有关框架
 
 * [Next.js：轻量级的 React 服务端渲染应用框架](http://nextjs.frontendx.cn/)
@@ -45,6 +47,8 @@
 * [react-slick：走马灯](https://github.com/akiran/react-slick)
 
 * [chart-race-react: 一个简单易用的 Bar Chart Race（长条图赛跑动画） React 组件](https://github.com/Mckinsey666/chart-race-react)
+
+* [styled-components：使用 ES6 模板字符串完成在 react 中的 css-in-js 的实现](https://github.com/styled-components/styled-components)
 
 ### 图片组件
 

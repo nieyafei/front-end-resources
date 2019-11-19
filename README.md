@@ -170,7 +170,7 @@
 
 * [Js tips](http://www.jstips.co/zh_CN/)
 
-* [37 Essential JavaScript Interview Questions ](https://www.toptal.com/javascript/interview-questions)
+* [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 
 * [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks)
 
@@ -215,6 +215,12 @@
 * [Node.js学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 
 * [N-blog: 一起学 Node.js学习笔记](https://github.com/nswbmw/N-blog)
+
+## Electron
+
+* [Motrix: 桌面下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://github.com/agalwood/Motrix)
+
+* [gridea: 一个静态博客写作客户端](https://github.com/getgridea/gridea)
 
 ## 框架工具
 
@@ -346,6 +352,9 @@
 
 * [Shepherd: 一款便于我们为一款产品做新手指引的工具库，通过一些简单的api就可以实现该功能，目前对于Vue，React，Angular，Ember框架都有支持](https://shipshapecode.github.io/shepherd/docs/welcome/)
 
+* [markdown-nice: 支持自定义样式的微信 Markdown 排版工具](https://github.com/mdnice/markdown-nice)
+
+* [xgplayer: 由字节跳动西瓜视频开源的带解析器、能节省流量的 HTML5 视频播放器](http://h5player.bytedance.com/)
 
 ## 计算机图形学
 
@@ -475,7 +484,6 @@
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
-
 ## 在线工具
 
 * [图片压缩](https://tinypng.com/)
@@ -483,6 +491,8 @@
 * [PNG ALL](http://www.pngall.com/)
 
 * [智图：图片优化](http://zhitu.isux.us/)
+
+* [squoosh: 谷歌开源的图片压缩工具](https://github.com/GoogleChromeLabs/squoosh)
 
 ## 配色网站
 
