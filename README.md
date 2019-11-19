@@ -388,6 +388,11 @@
 
 * [Fusioncharts](https://www.fusioncharts.com/)
   
+* [echartsMap: 全国区县GeoJSON](https://hxkj.vip/demo/echartsMap/)
+
+* [国内省市区的地图JSON文件](https://github.com/apache/incubator-echarts/tree/master/map/json)
+
+* [datav地图选择器](http://datav.aliyun.com/tools/atlas/#&lat=33.521903996156105&lng=104.29849999999999&zoom=4)
 
 ## 游戏框架
 
