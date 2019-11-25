@@ -222,6 +222,8 @@
 
 * [gridea: 一个静态博客写作客户端](https://github.com/getgridea/gridea)
 
+* [Strawberry-Wallpaper: 采用electron-vue开发的壁纸应用app](https://github.com/aitexiaoy/Strawberry-Wallpaper)
+
 ## 框架工具
 
   ### VUE
