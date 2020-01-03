@@ -226,13 +226,13 @@
 
 ## 框架工具
 
-  ### VUE
+### VUE
 
 * [VUE框架](https://cn.vuejs.org/)
 
 * [Vue资源精选](http://vue.awesometiny.com/)
 
-  #### 组件库
+#### 组件库
 
 * [NUXT：通用应用框架](https://zh.nuxtjs.org/)
 
@@ -357,6 +357,8 @@
 * [markdown-nice: 支持自定义样式的微信 Markdown 排版工具](https://github.com/mdnice/markdown-nice)
 
 * [xgplayer: 由字节跳动西瓜视频开源的带解析器、能节省流量的 HTML5 视频播放器](http://h5player.bytedance.com/)
+
+* [vConsole: 一个轻量、可拓展、针对手机网页的前端开发者调试面板](https://github.com/Tencent/vConsole)
 
 ## 计算机图形学
 
