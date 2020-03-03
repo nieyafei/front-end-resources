@@ -13,6 +13,7 @@
 
 ## NEW（最新更新）
 
+* [showdoc: 一款基于 JavaScript 实现的开源在线文档工具](https://github.com/star7th/showdoc)
 * [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts?utm_source=gold_browser_extension)
 * [Filepond：一个可以让你通过拖曳上传内容的 JavaScript 库。Filepond 21 KB大小，可用于 Vue、React、Angular。](https://pqina.nl/filepond/)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
