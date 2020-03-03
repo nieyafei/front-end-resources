@@ -53,16 +53,16 @@
 ### 图片组件
 
 * [react-zmage: 基于React的可缩放图片控件](http://zmage.caldis.me/)
+* [PhotoSwipe: 移动端PC端兼容图片相册预览](https://photoswipe.com/)
   
 ### 复制copy
 
 * [copy-to-clipboard](https://www.npmjs.com/package/copy-to-clipboard)
-
 * [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 
 ### MarkDown
 
-  * [react-markdown](https://github.com/rexxars/react-markdown)
+* [react-markdown](https://github.com/rexxars/react-markdown)
 
 ### 有关资源
 
