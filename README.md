@@ -278,16 +278,20 @@
 
 ### 微信小程序
 
+* [Taro：多端统一开发解决方案](https://taro.jd.com/)
+
 * [wepy: 让小程序支持组件化开发的框架](https://tencent.github.io/wepy/)
 
 * [mpvue: 一个使用 Vue.js 开发小程序的前端框架](https://github.com/Meituan-Dianping/mpvue)
 
 * [iVew Weapp: 一套高质量的微信小程序 UI 组件库](https://weapp.iviewui.com/)
 
+* [Remax: 使用真正的 React 构建小程序](https://github.com/remaxjs/remax)
+
+* [uni-app：一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/百度/头条/QQ/钉钉）等多个平台](https://uniapp.dcloud.io/)
+
 
 ### 多端
-
-* [Taro: 一套 React 语法规范的多端开发解决方案](https://taro.aotu.io/)
 
 * [Flutter: Google 用以帮助开发者在 iOS 和 Android 两个平台开发高质量原生 UI 的移动 SDK](https://flutter-io.cn/#section-codelabs)
 
