@@ -53,6 +53,7 @@
 * [FileSaver.js: 文件保存的 JavaScript 库，支持多种常见的文件存储格式：xls、txt、png](https://github.com/eligrey/FileSaver.js)
 * [qier-player: 一款基于 React 的轻量级在线视频播放器组件，界面简洁、操作流畅具有视频播放器的基础功能](https://github.com/vortesnail/qier-player)
 * [chart-race-react: 简单易用的 Bar Chart Race（长条图赛跑动画） React 组件](https://github.com/Mckinsey666/chart-race-react)
+* [css-in-js: 应用的CSS样式写在JavaScript文件里面](https://github.com/MicheleBertoli/css-in-js)
 
 ### 图片组件
 

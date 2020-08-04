@@ -549,3 +549,5 @@
 * [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 * [Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown)
+
+* [shields.io 主要是用来可以生成 在Markdown 文档中的徽章，我们经常在github的项目上看到这些徽章，来表述比如单元测试覆盖率、打包的大小、版本信息、认证信息等](https://shields.io/)
