@@ -8,6 +8,8 @@
 
 * [react-developer-roadmap: 学习 React 的路径](https://github.com/adam-golab/react-developer-roadmap)
 
+* [React技术揭秘](https://react.iamkasong.com/)
+
 ## 有关框架
 
 * [Next.js：轻量级的 React 服务端渲染应用框架](http://nextjs.frontendx.cn/)
