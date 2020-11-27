@@ -19,6 +19,7 @@
 * [Filepond：一个可以让你通过拖曳上传内容的 JavaScript 库。Filepond 21 KB大小，可用于 Vue、React、Angular。](https://pqina.nl/filepond/)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 * [Zdog: 一款用于用于 Canvas 和 svg 的 JS 3D 渲染引擎](https://zzz.dog/)
+* [big.js: 任意精度计算](https://github.com/MikeMcl/big.js)
 
 ## 前端大牛资源
   
